@@ -4,11 +4,10 @@
 - 👨‍💻 All of my projects are available at [https://github.com/Karthikraju7?tab=repositories](https://github.com/Karthikraju7?tab=repositories)
 
 - 📫 How to reach me **karthikdommaraju7@gmail.com**
-
-<h3 align="left">📊 Competitive Programming</h3>
+<h3 align="left">📊 Leetcode:</h3>
 <p align="left">
   <a href="https://leetcode.com/u/Karthik_8497/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="100" height="30"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="60" height="60"/>
   </a>
 </p>
 
