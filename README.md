@@ -7,7 +7,7 @@
 <h3 align="left">📊 Leetcode:</h3>
 <p align="left">
   <a href="https://leetcode.com/u/Karthik_8497/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="60" height="60"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="55" height="55"/>
   </a>
 </p>
 
